@@ -19,10 +19,15 @@ This project uses the **YOLOv5 object detection algorithm** to detect guns in im
 
 ## 📁 Project Structure
 ├── gun_detection_yolov5.ipynb # Main notebook
+
 ├── runs/ # Output results (images/videos with detections)
+
 ├── data/ # Training dataset (images + labels)
+
 ├── yolov5/ # YOLOv5 clone from Ultralytics
+
 ├── requirements.txt # Dependencies
+
 └── README.md # Project documentation
 
 
@@ -63,4 +68,4 @@ This project is open-source and for educational purposes only. Make sure to foll
 🙋‍♂️ Author
 Rohith Daram
 
-GitHub:rohithd10
+GitHub:drohith10
